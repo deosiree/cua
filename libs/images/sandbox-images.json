@@ -155,11 +155,11 @@
       "variant": "vm",
       "summary": "Windows VM with cua-spacesd and cua-driver.",
       "spacesd": true,
-      "digest": "sha256:9fe49abc7619db4f85f9c69dd45c7e0f9c42d29ef60d5d9c157162b66bfab8a7",
+      "digest": "sha256:8567a6a4fb3e60bfa15008fadf45ad0fdd3d7f5d665cf5a0967b3f659485f265",
       "sizes": {
-        "digest": "sha256:9fe49abc7619db4f85f9c69dd45c7e0f9c42d29ef60d5d9c157162b66bfab8a7",
+        "digest": "sha256:8567a6a4fb3e60bfa15008fadf45ad0fdd3d7f5d665cf5a0967b3f659485f265",
         "platforms": [
-          { "arch": "amd64", "manifest": "sha256:ac9cfa049e875768f915cb7f0df564268c9a7321523d0c52a5d16c4debfae077", "download": 6994746385, "unpacked": 7061241856, "disk": 68719476736 }
+          { "arch": "amd64", "manifest": "sha256:6399de476f8a2a705bca788ccc893debf4ca20e91a542c4067984f4651794dab", "download": 6989471073, "unpacked": 7055802368, "disk": 68719476736 }
         ]
       },
       "browsers": ["edge"],
@@ -180,11 +180,11 @@
       "variant": "vm",
       "summary": "The containerDisk the Windows VM boots. Resolved from windows:2022; not offered on its own.",
       "spacesd": true,
-      "digest": "sha256:80f7789b85340b455ca6ce18974db9d7305b84c900b2bbbc9b8102f1808c32c7",
+      "digest": "sha256:4c30bda0943ff756cea81b8690f8ad579339ff2c30029f2936704a51a0b85ca8",
       "sizes": {
-        "digest": "sha256:80f7789b85340b455ca6ce18974db9d7305b84c900b2bbbc9b8102f1808c32c7",
+        "digest": "sha256:4c30bda0943ff756cea81b8690f8ad579339ff2c30029f2936704a51a0b85ca8",
         "platforms": [
-          { "arch": "amd64", "manifest": "sha256:ac9cfa049e875768f915cb7f0df564268c9a7321523d0c52a5d16c4debfae077", "download": 6994746385, "unpacked": 7061241856, "disk": 68719476736 }
+          { "arch": "amd64", "manifest": "sha256:6399de476f8a2a705bca788ccc893debf4ca20e91a542c4067984f4651794dab", "download": 6989471073, "unpacked": 7055802368, "disk": 68719476736 }
         ]
       },
       "browsers": ["edge"],
